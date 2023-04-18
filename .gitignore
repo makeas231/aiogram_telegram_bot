@@ -132,6 +132,6 @@ dmypy.json
 .vscode
 __pycache__
 config.py
-tgBOt.log
+tgBot.log
 
 
