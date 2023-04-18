@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# my ignores
+.vscode
+__pycache__
+config.py
+tgBOt.log
+
+
